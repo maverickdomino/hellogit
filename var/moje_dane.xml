@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <firstname>Dominik</firstname>
+   	<lastname>Jaskolski</lastname>
+ 	<email>s193140@uek.krakow.pl</email>
+	<github>maverickdomino</github>
+	<group>KrDZIs3012Io</group>
+    </student>
+</students>
